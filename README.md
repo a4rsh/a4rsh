@@ -4,6 +4,7 @@ I'm a freshman computer engineering student who likes math and programming.
 Please check out my boredom induced creations.  
 
 ---
+### Blog  
 
 [November 7th, 2024 - A competition math problem](posts/11-07-2024.md)  
 
