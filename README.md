@@ -3,6 +3,7 @@
 I'm a freshman computer engineering student who likes math and programming.  
 Please check out my boredom induced creations.
 
+$testing math here y = mx + b$
 
 [October 18th, 2024 - Hello World](https://github.com/a4rsh/blog/blob/main/10-18-2024.md)
 
