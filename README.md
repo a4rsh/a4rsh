@@ -6,6 +6,8 @@ Please check out my boredom induced creations.
 ---
 ### Blog  
 
+[November 10th, 2024 - The Square Root Function](posts/11-10-2024.md)
+
 [November 7th, 2024 - A competition math problem](posts/11-07-2024.md)  
 
 [November 6th, 2024 - Tic-Tac-Toe](posts/11-06-2024.md)  
