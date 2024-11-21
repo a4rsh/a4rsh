@@ -6,6 +6,8 @@ Please check out my boredom induced creations.
 ---
 ### Blog  
 
+[November 21st, 2024 - Linear Regression](posts/11-21-2024.md)
+
 [November 19th, 2024 - Basic Data Visualization](posts/11-19-2024.md)
 
 [November 10th, 2024 - The Square Root Function](posts/11-10-2024.md)
