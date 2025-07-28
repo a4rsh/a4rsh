@@ -4,7 +4,7 @@ I'm a freshman computer engineering student who likes math and programming.
 Please check out my boredom induced creations.  
 
 ---
-### Blog  
+### Blog/Devlog
 
 [November 21st, 2024 - Linear Regression](posts/11-21-2024.md)
 
