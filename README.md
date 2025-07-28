@@ -6,6 +6,8 @@ Please check out my boredom induced creations.
 ---
 ### Blog/Devlog
 
+[July 27th, 2025 - CPU Architecture](https://github.com/a4rsh/8-bit-cpu)
+
 [November 21st, 2024 - Linear Regression](posts/11-21-2024.md)
 
 [November 19th, 2024 - Basic Data Visualization](posts/11-19-2024.md)
