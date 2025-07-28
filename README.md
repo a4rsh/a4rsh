@@ -1,6 +1,6 @@
 # Aarsh Dave
 
-I'm a freshman computer engineering student who likes math and programming.  
+I'm a computer engineering student who likes math and programming.  
 Please check out my boredom induced creations.  
 
 ---
